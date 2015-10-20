@@ -1,6 +1,6 @@
 # Pars
 
-**TODO: Add description**
+Please take a look at: lib/pars.ex 
 
 ## Installation
 
